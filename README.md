@@ -1,6 +1,6 @@
 # ResponsiveLoginPage
-Run "git init -y" for adding package.json 
-Then git i -D tailwindcss 
+Run "npm init -y" for adding package.json 
+Then npm i -D tailwindcss 
 Afterthat configure the "tailwindcss.config" file(add input and output path)
 Create index.html file
 and then run "npm run build" for css folder in your directory
